@@ -14,10 +14,11 @@ namespace Projeto_teste
             int x = 1;
             int y = 5;
             int z = 10;
+            Console.WriteLine("Bom dia");
 
 
             
-            Console.WriteLine((z > z) || (z == z) && (z < z));
+            
             Console.ReadLine();
         }
     }
